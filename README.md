@@ -1,2 +1,2 @@
 # a log catch loader
-it can help you to add a try catch block on logger call
+一个可以自动为logger相关调用添加try catch的loader
